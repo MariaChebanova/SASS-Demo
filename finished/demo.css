@@ -1,0 +1,15 @@
+h1 {
+  color: red; }
+
+nav li, nav div p, div nav p {
+  border: 1px solid black;
+  display: inline; }
+nav p {
+  font-family: "Times New Roman", serif; }
+
+div li, div p {
+  border: 1px solid black; }
+div p {
+  border-color: blue; }
+
+/*# sourceMappingURL=demo.css.map */

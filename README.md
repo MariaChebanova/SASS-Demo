@@ -6,4 +6,5 @@ For installing SASS onto a computer, go here: http://sass-lang.com/install
 
 To get package controller and sass package, follow these two links: 
 https://packagecontrol.io/installation
-https://packagecontrol.io/packages/Sass# SASS-Demo
+
+https://packagecontrol.io/packages/Sass#
